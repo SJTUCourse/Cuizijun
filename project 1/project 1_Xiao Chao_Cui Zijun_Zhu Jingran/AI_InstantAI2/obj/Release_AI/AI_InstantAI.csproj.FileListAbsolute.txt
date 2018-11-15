@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\C#\bin\Release\AI_InstantAI.exe.config
+C:\Users\USER\Desktop\C#\bin\Release\DoubleBufferListView.cs
+C:\Users\USER\Desktop\C#\bin\Release\AI_InstantAI.exe.manifest
+C:\Users\USER\Desktop\C#\bin\Release\AI_InstantAI.application
+C:\Users\USER\Desktop\C#\bin\Release\AI_InstantAI.exe
+C:\Users\USER\Desktop\C#\bin\Release\AI_InstantAI.pdb
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Release\AI_InstantAI.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Release\AI_InstantAI.InstantAIForm.resources
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Release\AI_InstantAI.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Release\AI_InstantAI.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Release\AI_InstantAI.exe.manifest
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Release\AI_InstantAI.application
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Release\AI_InstantAI.exe
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Release\AI_InstantAI.pdb
