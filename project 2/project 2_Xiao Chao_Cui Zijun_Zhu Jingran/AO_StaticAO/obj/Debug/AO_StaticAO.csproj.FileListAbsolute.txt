@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\C#\bin\Debug\AO_StaticAO.exe
+C:\Users\USER\Desktop\C#\bin\Debug\AO_StaticAO.pdb
+C:\Users\USER\Desktop\C#\AO_StaticAO\obj\Debug\AO_StaticAO.StaticAOForm.resources
+C:\Users\USER\Desktop\C#\AO_StaticAO\obj\Debug\AO_StaticAO.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\AO_StaticAO\obj\Debug\AO_StaticAO.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C#\AO_StaticAO\obj\Debug\AO_StaticAO.exe
+C:\Users\USER\Desktop\C#\AO_StaticAO\obj\Debug\AO_StaticAO.pdb
+C:\Users\USER\Desktop\C#\AO_StaticAO\obj\Debug\AO_StaticAO.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C#\bin\Debug\AO_StaticAO.exe.config
