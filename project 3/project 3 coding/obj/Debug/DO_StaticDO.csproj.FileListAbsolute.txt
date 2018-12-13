@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\C#\bin\Debug\DO_StaticDO.exe
+C:\Users\USER\Desktop\C#\bin\Debug\DO_StaticDO.pdb
+C:\Users\USER\Desktop\C#\DO_StaticDO\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\USER\Desktop\C#\DO_StaticDO\obj\Debug\DO_StaticDO.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\DO_StaticDO\obj\Debug\DO_StaticDO.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C#\DO_StaticDO\obj\Debug\DO_StaticDO.exe
+C:\Users\USER\Desktop\C#\DO_StaticDO\obj\Debug\DO_StaticDO.pdb
+C:\Users\USER\Desktop\C#\DO_StaticDO\obj\Debug\DO_StaticDO.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Desktop\大四上\信号课\bin\Debug\DO_StaticDO.exe
+C:\Users\Shawn\Desktop\大四上\信号课\bin\Debug\DO_StaticDO.pdb
+C:\Users\Shawn\Desktop\大四上\信号课\Project3\obj\Debug\DO_StaticDO.csprojAssemblyReference.cache
+C:\Users\Shawn\Desktop\大四上\信号课\Project3\obj\Debug\DO_StaticDO.StaticDOForm.resources
+C:\Users\Shawn\Desktop\大四上\信号课\Project3\obj\Debug\DO_StaticDO.Properties.Resources.resources
+C:\Users\Shawn\Desktop\大四上\信号课\Project3\obj\Debug\DO_StaticDO.csproj.GenerateResource.cache
+C:\Users\Shawn\Desktop\大四上\信号课\Project3\obj\Debug\DO_StaticDO.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Desktop\大四上\信号课\Project3\obj\Debug\DO_StaticDO.exe
+C:\Users\Shawn\Desktop\大四上\信号课\Project3\obj\Debug\DO_StaticDO.pdb

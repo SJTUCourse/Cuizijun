@@ -1,0 +1,93 @@
+C:\Users\USER\Desktop\C#\bin\Debug\AI_InstantAI.exe
+C:\Users\USER\Desktop\C#\bin\Debug\AI_InstantAI.pdb
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.InstantAIForm.resources
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.Properties.Resources.resources
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.exe
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.pdb
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csprojResolveAssemblyReference.cache
+C:\Users\wyzhao\Desktop\C#\bin\Debug\AI_InstantAI.exe.config
+C:\Users\wyzhao\Desktop\C#\bin\Debug\AI_InstantAI.exe
+C:\Users\wyzhao\Desktop\C#\bin\Debug\AI_InstantAI.pdb
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csprojResolveAssemblyReference.cache
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.InstantAIForm.resources
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.Properties.Resources.resources
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csproj.GenerateResource.Cache
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csproj.CoreCompileInputs.cache
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.exe
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.pdb
+C:\Users\wyzhao\Desktop\C#\bin\Debug\AI_InstantAI.exe.manifest
+C:\Users\wyzhao\Desktop\C#\bin\Debug\AI_InstantAI.application
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.exe.manifest
+C:\Users\wyzhao\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.application
+C:\Users\wyzhao\Desktop\C#\bin\Debug\DoubleBufferListView.cs
+C:\Users\USER\Desktop\C#\bin\Debug\AI_InstantAI.exe.config
+C:\Users\USER\Desktop\C#\bin\Debug\DoubleBufferListView.cs
+C:\Users\USER\Desktop\C#\bin\Debug\AI_InstantAI.exe.manifest
+C:\Users\USER\Desktop\C#\bin\Debug\AI_InstantAI.application
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.exe.manifest
+C:\Users\USER\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.application
+C:\Users\wyzhao\Documents\C#\bin\Debug\DoubleBufferListView.cs
+C:\Users\wyzhao\Documents\C#\bin\Debug\AI_InstantAI.exe.config
+C:\Users\wyzhao\Documents\C#\bin\Debug\AI_InstantAI.exe.manifest
+C:\Users\wyzhao\Documents\C#\bin\Debug\AI_InstantAI.application
+C:\Users\wyzhao\Documents\C#\bin\Debug\AI_InstantAI.exe
+C:\Users\wyzhao\Documents\C#\bin\Debug\AI_InstantAI.pdb
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csprojResolveAssemblyReference.cache
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.InstantAIForm.resources
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.Properties.Resources.resources
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csproj.GenerateResource.Cache
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csproj.CoreCompileInputs.cache
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.exe.manifest
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.application
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.exe
+C:\Users\wyzhao\Documents\C#\AI_InstantAI\obj\Debug\AI_InstantAI.pdb
+C:\Users\Y50\Desktop\C#\bin\Debug\DoubleBufferListView.cs
+C:\Users\Y50\Desktop\C#\bin\Debug\AI_InstantAI.exe.config
+C:\Users\Y50\Desktop\C#\bin\Debug\AI_InstantAI.exe.manifest
+C:\Users\Y50\Desktop\C#\bin\Debug\AI_InstantAI.application
+C:\Users\Y50\Desktop\C#\bin\Debug\AI_InstantAI.exe
+C:\Users\Y50\Desktop\C#\bin\Debug\AI_InstantAI.pdb
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csprojResolveAssemblyReference.cache
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.InstantAIForm.resources
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.Properties.Resources.resources
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csproj.GenerateResource.Cache
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.csproj.CoreCompileInputs.cache
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.exe.manifest
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.application
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.exe
+C:\Users\Y50\Desktop\C#\AI_InstantAI\obj\Debug\AI_InstantAI.pdb
+C:\Users\USER\Desktop\C# - 副本\bin\Debug\AI_InstantAI.exe.config
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.exe
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.pdb
+C:\Users\USER\Desktop\C# - 副本\bin\Debug\DoubleBufferListView.cs
+C:\Users\USER\Desktop\C# - 副本\bin\Debug\AI_InstantAI.exe.manifest
+C:\Users\USER\Desktop\C# - 副本\bin\Debug\AI_InstantAI.application
+C:\Users\USER\Desktop\C# - 副本\bin\Debug\AI_InstantAI.exe
+C:\Users\USER\Desktop\C# - 副本\bin\Debug\AI_InstantAI.pdb
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.Main.resources
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.InstantAIForm.resources
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.Properties.Resources.resources
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.exe.manifest
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.application
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.StaticAOForm.resources
+C:\Users\USER\Desktop\C# - 副本\AI_InstantAI\obj\Debug\AI_InstantAI.StaticDOForm.resources
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.csprojAssemblyReference.cache
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.Main.resources
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.InstantAIForm.resources
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.Properties.Resources.resources
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.csproj.GenerateResource.cache
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.exe
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.pdb
+C:\Users\Shawn\Desktop\大四上\信号课\final project\bin\Debug\AI_InstantAI.exe.config
+C:\Users\Shawn\Desktop\大四上\信号课\final project\bin\Debug\AI_InstantAI.exe.manifest
+C:\Users\Shawn\Desktop\大四上\信号课\final project\bin\Debug\AI_InstantAI.application
+C:\Users\Shawn\Desktop\大四上\信号课\final project\bin\Debug\AI_InstantAI.exe
+C:\Users\Shawn\Desktop\大四上\信号课\final project\bin\Debug\AI_InstantAI.pdb
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.exe.manifest
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AI_InstantAI.application
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\AO_StaticAO.StaticAOForm.resources
+C:\Users\Shawn\Desktop\大四上\信号课\final project\FinalProject\obj\Debug\DO_StaticDO.StaticDOForm.resources
